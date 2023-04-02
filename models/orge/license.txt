@@ -1,0 +1,11 @@
+Model Information:
+* title:	Orge Avatar
+* source:	https://sketchfab.com/3d-models/orge-avatar-ced67b1674a9406d87d8f63544fa4833
+* author:	LSiang (https://sketchfab.com/YLSiang)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Orge Avatar" (https://sketchfab.com/3d-models/orge-avatar-ced67b1674a9406d87d8f63544fa4833) by LSiang (https://sketchfab.com/YLSiang) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
